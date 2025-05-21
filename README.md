@@ -1,8 +1,3 @@
-# React + Vite
+# GamerHub404
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A Progressive Web App built with React, JavaScript, and CSS — a lightweight platform to host and play casual games. Includes a short interactive demo game to showcase functionality and performance.
